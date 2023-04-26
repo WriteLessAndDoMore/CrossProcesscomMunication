@@ -1,7 +1,5 @@
-package com.android.myapplication.bean;
+package com.android.mylibrary.bean;
 
-import android.os.Binder;
-import android.os.IBinder;
 import android.os.Parcel;
 import android.os.Parcelable;
 
