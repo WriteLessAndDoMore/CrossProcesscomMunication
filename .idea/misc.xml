@@ -6,7 +6,11 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33106884057971014" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.33106884057971014" />
         <entry key="app/src/main/res/layout/activity_main3.xml" value="0.33106884057971014" />
+        <entry key="myaidl/src/main/res/layout/activity_main.xml" value="0.33541666666666664" />
+        <entry key="myclient/src/main/res/layout/activity_main.xml" value="0.33541666666666664" />
+        <entry key="myclientapp/src/main/res/layout/activity_main.xml" value="0.19753086419753085" />
         <entry key="mymessage/src/main/res/layout/activity_main.xml" value="0.35208333333333336" />
+        <entry key="myserviceapp/src/main/res/layout/activity_main.xml" value="0.35208333333333336" />
       </map>
     </option>
   </component>
